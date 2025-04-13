@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MetricsPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetricsPlugin</output-path>
+    <root id="archive" name="MetricsPlugin.jar">
+      <element id="module-output" name="MetricsPlugin" />
+    </root>
+  </artifact>
+</component>

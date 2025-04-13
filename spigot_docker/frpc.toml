@@ -1,0 +1,10 @@
+serverAddr = "20.2.114.33"
+serverPort = 37473
+auth.token = "YUF7F77y7G85drtY8g87"
+
+[[proxies]]
+name = "mc_port_25566"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 25565
+remotePort = 25566

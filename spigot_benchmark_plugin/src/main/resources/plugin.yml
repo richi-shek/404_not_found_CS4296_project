@@ -1,0 +1,15 @@
+main: org.example.MetricsPlugin
+name: BenchmarkPlugin
+version: '1.0'
+description: A benchmark plugin
+author: richi-shek
+commands:
+  metrics:
+    description: metrics command
+    permission: metrics.execute
+    permission-message: You do not have permission!
+    usage: /<command> [test|stop]
+permissions:
+  metrics.execute:
+    description: Allows metrics command
+    default: true

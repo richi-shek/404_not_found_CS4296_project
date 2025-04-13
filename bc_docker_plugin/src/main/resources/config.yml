@@ -1,0 +1,17 @@
+environment: local
+image: spigot_metrics
+initial_servers: 2
+threshold: 20
+aws_access_key_id: ""
+aws_secret_access_key: ""
+aws_session_token: ""
+aws_task_definition: ""
+aws_ami_id: ""
+aws_region: ""
+aws_account_id: ""
+aws_cluster_name: "mc-cluster"
+aws_subnet_id: ""
+aws_security_group_id: ""
+FRP_PUBLIC_IP: ""
+FRP_SERVER_PORT: 7000
+FRP_TOKEN: ""

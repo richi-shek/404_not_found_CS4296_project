@@ -1,0 +1,13 @@
+environment: "ec2"
+image: "spigot_metrics:v9"
+initial_servers: 1
+threshold: 20
+aws_access_key_id: "AKIA3IQDLQXM4MBXOWR2"
+aws_secret_access_key: "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"
+aws_task_definition: "spigot-task:4"
+aws_region: "us-east-1"
+aws_account_id: "774174901721"
+aws_cluster_name: "mc-cluster"
+FRP_PUBLIC_IP: "20.2.114.33"
+FRP_SERVER_PORT: 37473
+FRP_TOKEN: "YUF7F77y7G85drtY8g87"

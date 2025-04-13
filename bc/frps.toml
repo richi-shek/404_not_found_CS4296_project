@@ -1,0 +1,10 @@
+bindAddr = "0.0.0.0"
+bindPort = 37473
+kcpBindPort = 37473
+auth.method = "token"
+auth.token = "YUF7F77y7G85drtY8g87"
+transport.maxPoolCount = 20
+
+allowPorts = [
+  { start = 25566, end = 25600 }
+]

@@ -1,0 +1,4 @@
+name: DynamicDocker
+version: 1.0
+main: com.github.richi_shek.bungeeplugin.DynamicDockerPlugin
+author: richi-shek

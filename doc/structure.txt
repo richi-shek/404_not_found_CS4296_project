@@ -1,0 +1,5 @@
+bc: bungeecord server
+bc_docker_plugin: the source code of the plugin of bungeecord server, for dynamic start the docker in different way
+mc_bot: a node js benchmark tool, Usage: node main.mjs <ip> <port> <botCount> <batch_count> <batch_duration>
+spigot_benchmark_plugin: the source code of the plugin of spigot server, for let benchmark tool to get the TPS, MSPT and latency
+spigot_docker: spigot server, use for set up a spigot docker image
